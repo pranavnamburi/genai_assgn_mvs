@@ -1,0 +1,29 @@
+# Movi Transport Management System - Backend Requirements
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+
+# Langgraph and LangChain
+langgraph
+langgraph-checkpoint
+langchain-core
+langchain-openai
+
+# Environment and Configuration
+python-dotenv
+
+# OpenAI
+openai
+
+# Data Validation
+pydantic
+
+# Audio Services
+deepgram-sdk
+elevenlabs
+requests

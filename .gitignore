@@ -1,0 +1,6 @@
+.env
+backend/__pycache__/*
+frontend/node_modules/*
+backend/movi_transport.db
+scrap/*
+
